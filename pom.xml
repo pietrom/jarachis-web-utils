@@ -24,4 +24,21 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+
+	<licenses>
+		<license>
+			<name>GPL 3.0</name>
+			<url>http://www.gnu.org/licenses/gpl-3.0.txt</url>
+			<distribution>manual</distribution>
+			<comments>GNU GENERAL PUBLIC LICENSE, version 3.0</comments>
+		</license>
+	</licenses>
+	
+	<developers>
+		<developer>
+			<id>amicofragile</id>
+			<name>Pietro Martinelli</name>
+			<email>amicofragile@gmail.com</email>
+		</developer>
+	</developers>
 </project>
