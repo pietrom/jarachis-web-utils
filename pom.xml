@@ -41,4 +41,10 @@
 			<email>amicofragile@gmail.com</email>
 		</developer>
 	</developers>
+	<distributionManagement>
+		<repository>
+			<id>distribution-maven-repository</id>
+			<url>${local-deploy-repository}</url>
+		</repository>
+	</distributionManagement>
 </project>
