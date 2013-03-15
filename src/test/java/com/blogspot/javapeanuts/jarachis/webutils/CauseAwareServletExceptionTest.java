@@ -1,8 +1,11 @@
-package org.amicofragile.jpeanuts.web;
+package com.blogspot.javapeanuts.jarachis.webutils;
 
 import javax.servlet.ServletException;
 
 import org.junit.Test;
+
+import com.blogspot.javapeanuts.jarachis.webutils.CauseAwareServletException;
+
 import static org.junit.Assert.*;
 
 public class CauseAwareServletExceptionTest {

@@ -1,4 +1,4 @@
-package org.amicofragile.jpeanuts.web;
+package com.blogspot.javapeanuts.jarachis.webutils;
 
 import javax.servlet.ServletException;
 
