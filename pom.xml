@@ -7,7 +7,7 @@
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>jarachis-web-utils java library</name>
+	<name>jarachis-web-utils</name>
 	<url>https://github.com/pietrom/jarachis-web-utils</url>
 
 	<properties>
@@ -59,7 +59,7 @@
 				<version>1.0-beta-2</version>
 				<configuration>
 					<scmBranch>gh-pages</scmBranch>
-					<pubScmUrl>scm:git:https://pietrom@github.com/pietrom/${project.name}.git</pubScmUrl>
+					<pubScmUrl>scm:git:https://pietrom@github.com/pietrom/${project.artifactId}.git</pubScmUrl>
 				</configuration>
 			</plugin>
 			<plugin>
